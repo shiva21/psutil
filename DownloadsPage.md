@@ -1,0 +1,1 @@
+psutil's source and Windows binaries files (including old versions) are now hosted on [pypi](https://pypi.python.org/pypi?:action=display&name=psutil#downloads).
